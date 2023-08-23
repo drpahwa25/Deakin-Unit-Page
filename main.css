@@ -1,4 +1,7 @@
-
+* {
+  margin: 0;
+  padding: 0;
+}
 
 h1 {
   font-size: 40px;
@@ -16,4 +19,12 @@ p {
   font-family: Arial
 }
 
+.header-wrap {
+  background-color: #0b7161;
+  padding: 15px 35px;
+  text-align: center;
+}
 
+.header-wrap .logo img {
+  width: 200px;
+}
